@@ -9,9 +9,15 @@
 - 📺 **[YouTube Presets](https://chromewebstore.google.com/detail/youtube-presets/pkpaeeeaenkiihcebmpfdleiapmofgig)** - One-click presets for speed, quality, and view mode.
 - 🔗 **[Copy Clean Link](https://chromewebstore.google.com/detail/copy-clean-url/akfbdjbkancpbebcofcfibmfoaoigmbn)** - Strip UTM clutter from URLs instantly.
 - 📊 **[Carbon Data Table](https://www.figma.com/community/plugin/1575527581350101969/carbon-data-table)** - Build IBM Carbon data tables in Figma—from scratch.
-- 🧹 **[Clear File Metadata](https://www.raycast.com/Envl/file-info#:~:text=currently%20selected%20file-,Clear%20File%20Metadata,-Strip%20all%20embedded)** - Wipe file metadata before sharing.
+- 🔊 **[Pronounce the Word](https://www.raycast.com/SandeepBaskaran/pronounce-the-word)** - Raycast extension for pronunciation.
+- **Github Repo Directory Download** - Raycast extension for partially downloading a specific directory inside a github repository. (Coming Soon)
+- **Zerodha Portfolio (Kite+Coin)** - Raycast extension for viewing zerodha portfolio summary from both Kite and Coin. (Coming Soon)
+- 🧹 **[Clear File Metadata](https://www.raycast.com/Envl/file-info#:~:text=currently%20selected%20file-,Clear%20File%20Metadata,-Strip%20all%20embedded)** `Contribution` - Raycast command to wipe file metadata before sharing.
+- **OpenCode Sessions** `Contribution` - Raycast commands to read and manage Opencode commands. (Coming Soon)
+- **Gumroad** `Contribution` - Raycast command filter to hide $0 sales from sales. (Coming Soon)
+- **Advanced Renaming** `Contribution` - Raycast command to rename files in bulk using multiple rules. (Coming Soon)
+- **CCUsage** `Contribution`- Raycast command to check weekly and session usage of claude code limits. (Coming Soon)
 - 🎨 **Design Mode for VS Code** - Cursor's design mode, but for VS Code. (Coming Soon)
-- 🔊 **Pronounce the Word** - Raycast extension for pronunciation. (Coming Soon)
 
 ## Connect
 
