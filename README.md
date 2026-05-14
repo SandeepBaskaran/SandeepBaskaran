@@ -7,8 +7,8 @@
 ### Current Projects
 
 - **[Design Mode](https://chromewebstore.google.com/detail/design-mode/ighgobegfcmjagombgnfhgioflinojih)** - Design directly in the browser. Your agent writes the code.
-- 📺 **[YouTube Presets](https://chromewebstore.google.com/detail/youtube-presets/pkpaeeeaenkiihcebmpfdleiapmofgig)** - One-click presets for speed, quality, and view mode.
-- 🔗 **[Copy Clean Link](https://chromewebstore.google.com/detail/copy-clean-url/akfbdjbkancpbebcofcfibmfoaoigmbn)** - Strip UTM clutter from URLs instantly.
+- **[YouTube Presets](https://chromewebstore.google.com/detail/youtube-presets/pkpaeeeaenkiihcebmpfdleiapmofgig)** - One-click presets for speed, quality, and view mode.
+- **[Copy Clean Link](https://chromewebstore.google.com/detail/copy-clean-url/akfbdjbkancpbebcofcfibmfoaoigmbn)** - Strip UTM clutter from URLs instantly.
 
 
 ### Connect
